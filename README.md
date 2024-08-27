@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I’m currently learning Dotnet FullStack
+Fun fact: I am very talkative
 <!--
 **KushagraDubey2002/KushagraDubey2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
